@@ -1,4 +1,4 @@
-const docblocks = require('./node_modules/docblocs/lib/render');
+const docblocks = require('@shepherdjerred/docblocs/lib/render');
 const fs = require('fs');
 const util = require('util');
 const asyncReadFile = util.promisify(fs.readFile);
