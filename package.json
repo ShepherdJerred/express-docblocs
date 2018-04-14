@@ -1,6 +1,6 @@
 {
   "name": "express-docblocs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template engine for using docblocs with express",
   "main": "index.js",
   "scripts": {
