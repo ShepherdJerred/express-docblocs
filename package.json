@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ShepherdJerred/express-docblocs/issues"
   },
-  "homepage": "https://github.com/ShepherdJerred/express-docblocs#readme"
+  "homepage": "https://github.com/ShepherdJerred/express-docblocs#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "semistandard": "^12.0.1"
+  }
 }
